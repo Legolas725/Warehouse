@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/vivekmahar/Oscar/GAME DEV/UNREAL ENGINE/PROJECT/Experiment/Warehouses/Content/StarterContent/Particles/P_Fire.uasset",
+				"/Users/vivekmahar/Oscar/GAME DEV/UNREAL ENGINE/PROJECT/Experiment/Warehouses/Content/StarterContent/Maps/Minimal_Default.umap",
+				"/Users/vivekmahar/Oscar/GAME DEV/UNREAL ENGINE/PROJECT/Experiment/Warehouses/Content/StarterContent/Maps/BP_sphere.uasset",
+				"/Users/vivekmahar/Oscar/GAME DEV/UNREAL ENGINE/PROJECT/Experiment/Warehouses/Content/Mainmap.umap",
+				"/Users/vivekmahar/Oscar/GAME DEV/UNREAL ENGINE/PROJECT/Experiment/Warehouses/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"/Users/vivekmahar/Oscar/GAME DEV/UNREAL ENGINE/PROJECT/Experiment/Warehouses/Content/BP_barrel.uasset"
+			]
+		}
+	]
+}
